@@ -34,7 +34,7 @@ A Google Gemini API Key. You can get one for free from Google AI Studio.
 Installation
 Clone the repository:
 
-git clone https://github.com/YourUsername/EcoAgent.git
+git clone https://github.com/Meetagravat1234/eco-agent-
 cd EcoAgent
 
 Install the required packages:
